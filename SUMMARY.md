@@ -1,9 +1,9 @@
 # Table of contents
 
 * [技术笔记目录](README.md)
-* [JavaEE 知识点完整目录（由浅入深，环环相扣）](JAVAEE.md)
-* [JavaSE 知识点完整目录（由浅入深，环环相扣）](JAVASE.md)
-* [Maven 知识点完整目录（由浅入深，环环相扣）](MAVEN.md)
-* [MySQL 知识点完整目录（由浅入深，环环相扣）](MYSQL.md)
-* [Java 项目架构体系（由浅入深，环环相扣）](STRUCTURE.md)
-* [VUE](VUE.md)
+* [JavaEE(二章节)](JAVAEE.md)
+* [JavaSE(十八章节)](JAVASE.md)
+* [Maven(六章节)](MAVEN.md)
+* [MySQL(十三章节)](MYSQL.md)
+* [Java项目架构(三章节)](STRUCTURE.md)
+* [Vue 3(九章节)](VUE.md)

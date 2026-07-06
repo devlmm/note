@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 技术笔记目录
 
 <div align="left"><img src="https://img.shields.io/badge/Learning%20Notes-Java%20|%20MySQL%20|%20...-blue?style=for-the-badge&#x26;logo=gitbook" alt=""></div>
