@@ -21,11 +21,18 @@
 
 ### 📖 内容导航（持续扩充中）
 
-| 分类          | 章节                 | 简述             |
-| ----------- | ------------------ | -------------- |
-| ☕**Java**   | [Java 基础](JAVA.md) | 面向对象、集合、异常、泛型等 |
-| 🐬**MySQL** | [SQL 基础](MYSQL.md) | 索引优化、执行计划、事务隔离 |
-| …           | …                  | 更多内容正在整理中…     |
+| 分类               | 章节                       | 
+|------------------|--------------------------|
+| **JavaSE**       | [JavaSE](JAVASE.md)      |
+| **JavaEE**     | [JavaEE](JAVAEE.md)      |
+| **MySQL**      | [MySQL](MYSQL.md)        |
+| **MyBatis**    | [MyBatis](MYSQL.md)      |
+| **SpringCore** | [SpringCore](SPRING_CORE.md)   |
+| **SpringMVC**  | [SpringMVC](SPRING_MVC.md)    | 
+| **Maven**      | [Maven](MAVEN.md)        |
+| **HTML5/CSS/JS** | [HTML5/CSS/JS](HTML_JS_CSS.md) |
+| **VUE3**       | [VUE3](VUE.md)         |
+| **架构模板**       | [架构模板](STRUCTURE.md)         |
 
 > 💡 **如何快速找到想看的章节？** 在 GitBook 左侧目录树中直接点击，或使用搜索功能（支持全文检索）。
 
