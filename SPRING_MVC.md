@@ -1,5 +1,8 @@
+# SpringMVC 核心技术手册
 
-# SpringMVC核心技术详解
+  **阅读指南**：由浅入深，每个知识点均配有精简示例。建议按顺序阅读，环环相扣。
+
+---
 
 [1. SpringMVC核心架构与执行流程](#1-springmvc核心架构与执行流程)
   - [1.1 SpringMVC简介](#11-springmvc简介)

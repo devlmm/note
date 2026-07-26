@@ -21,18 +21,21 @@
 
 ### 📖 内容导航（持续扩充中）
 
-| 分类               | 章节                       | 
+| 分类              | 章节                     | 
 |------------------|--------------------------|
 | **JavaSE**       | [JavaSE](JAVASE.md)      |
-| **JavaEE**     | [JavaEE](JAVAEE.md)      |
-| **MySQL**      | [MySQL](MYSQL.md)        |
-| **MyBatis**    | [MyBatis](MYSQL.md)      |
-| **SpringCore** | [SpringCore](SPRING_CORE.md)   |
-| **SpringMVC**  | [SpringMVC](SPRING_MVC.md)    | 
-| **Maven**      | [Maven](MAVEN.md)        |
+| **JavaEE**       | [JavaEE](JAVAEE.md)      |
+| **MySQL**        | [MySQL](MYSQL.md)        |
+| **MyBatis**      | [MyBatis](MYSQL.md)      |
+| **SpringCore**   | [SpringCore](SPRING_CORE.md)   |
+| **SpringMVC**    | [SpringMVC](SPRING_MVC.md)     | 
+| **Maven**        | [Maven](MAVEN.md)              |
 | **HTML5/CSS/JS** | [HTML5/CSS/JS](HTML_JS_CSS.md) |
-| **VUE3**       | [VUE3](VUE.md)         |
-| **架构模板**       | [架构模板](STRUCTURE.md)         |
+| **VUE3**         | [VUE3](VUE.md)                 |
+| **Java架构**      | [Java架构](STRUCTURE.md)       |
+| **Git**          | [Git](GIT.md)                  |
+| **CentOS Linux** | [CentOS Linux](CENTOS_LINUX.md)|
+| **Docker**       | [Docker](DOCKER.md)|           |
 
 > 💡 **如何快速找到想看的章节？** 在 GitBook 左侧目录树中直接点击，或使用搜索功能（支持全文检索）。
 
