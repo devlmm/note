@@ -21,21 +21,26 @@
 
 ### 📖 内容导航（持续扩充中）
 
-| 分类              | 章节                     | 
-|------------------|--------------------------|
-| **JavaSE**       | [JavaSE](JAVASE.md)      |
-| **JavaEE**       | [JavaEE](JAVAEE.md)      |
-| **MySQL**        | [MySQL](MYSQL.md)        |
-| **MyBatis**      | [MyBatis](MYSQL.md)      |
-| **SpringCore**   | [SpringCore](SPRING_CORE.md)   |
-| **SpringMVC**    | [SpringMVC](SPRING_MVC.md)     | 
-| **Maven**        | [Maven](MAVEN.md)              |
-| **HTML5/CSS/JS** | [HTML5/CSS/JS](HTML_JS_CSS.md) |
-| **VUE3**         | [VUE3](VUE.md)                 |
-| **Java架构**      | [Java架构](STRUCTURE.md)       |
-| **Git**          | [Git](GIT.md)                  |
-| **CentOS Linux** | [CentOS Linux](CENTOS_LINUX.md)|
-| **Docker**       | [Docker](DOCKER.md)|           |
+| 分类                | 章节                                           |
+|---------------------|-----------------------------------------------|
+| **JavaSE**          | [JavaSE 核心技术手册](JAVASE.md)               |
+| **JavaEE**          | [JavaEE 核心技术手册](JAVAEE.md)               |
+| **Lombok**          | [Lombok 核心技术手册](LOMBOK.md)               |
+| **MySQL**           | [MySQL 核心技术手册](MYSQL.md)                 |
+| **MyBatis**         | [MyBatis 核心技术手册](MYBATIS.md)             |
+| **MyBatis-Plus**    | [MyBatis-Plus 核心技术手册](MYBATIS_PLUS.md)   |
+| **SpringCore**      | [Spring6 核心技术手册](SPRING_CORE.md)         |
+| **SpringMVC**       | [SpringMVC 核心技术手册](SPRING_MVC.md)        |
+| **SpringBoot**      | [SpringBoot 核心技术手册](SPRING_BOOT.md)      |
+| **Spring RestClient**| [Spring RestClient 核心技术手册](SPRING_RESTCLIENT.md) |
+| **Spring WebClient** | [Spring WebClient 核心技术手册](SPRING_WEBCLIENT.md)   |
+| **Maven**           | [Maven 核心技术手册](MAVEN.md)                 |
+| **HTML5/CSS/JS**    | [HTML、HTML5、CSS、JavaScript 核心技术手册](HTML_JS_CSS.md) |
+| **VUE3**            | [Vue 3 核心技术手册](VUE.md)                   |
+| **Java架构**        | [Java项目架构 核心技术手册](STRUCTURE.md)      |
+| **Git**             | [Git技术手册](GIT.md)                          |
+| **CentOS Linux**    | [Linux CentOS 运维核心技术手册](LINUX_CENTOS.md)|
+| **Docker**          | [Docker 核心技术手册](DOCKER.md)               |
 
 > 💡 **如何快速找到想看的章节？** 在 GitBook 左侧目录树中直接点击，或使用搜索功能（支持全文检索）。
 
