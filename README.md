@@ -29,18 +29,22 @@
 | **MySQL**           | [MySQL 核心技术手册](MYSQL.md)                 |
 | **MyBatis**         | [MyBatis 核心技术手册](MYBATIS.md)             |
 | **MyBatis-Plus**    | [MyBatis-Plus 核心技术手册](MYBATIS_PLUS.md)   |
-| **SpringCore**      | [Spring6 核心技术手册](SPRING_CORE.md)         |
-| **SpringMVC**       | [SpringMVC 核心技术手册](SPRING_MVC.md)        |
-| **SpringBoot**      | [SpringBoot 核心技术手册](SPRING_BOOT.md)      |
+| **Spring Core**      | [Spring6 核心技术手册](SPRING_CORE.md)         |
+| **Spring MVC**       | [Spring MVC 核心技术手册](SPRING_MVC.md)        |
+| **Spring Boot**      | [Spring Boot 核心技术手册](SPRING_BOOT.md)      |
 | **Spring RestClient**| [Spring RestClient 核心技术手册](SPRING_RESTCLIENT.md) |
 | **Spring WebClient** | [Spring WebClient 核心技术手册](SPRING_WEBCLIENT.md)   |
+| **Spring Security**  | [Spring Security 核心技术手册](SPRING_SECURITY.md) |
 | **Maven**           | [Maven 核心技术手册](MAVEN.md)                 |
 | **HTML5/CSS/JS**    | [HTML、HTML5、CSS、JavaScript 核心技术手册](HTML_JS_CSS.md) |
 | **VUE3**            | [Vue 3 核心技术手册](VUE.md)                   |
 | **Java架构**        | [Java项目架构 核心技术手册](STRUCTURE.md)      |
 | **Git**             | [Git技术手册](GIT.md)                          |
 | **CentOS Linux**    | [Linux CentOS 运维核心技术手册](LINUX_CENTOS.md)|
-| **Docker**          | [Docker 核心技术手册](DOCKER.md)               |
+| **Docker**          | [Docker 核心技术手册](DOCKER.md)                 |
+| **Nginx**           | [Nginx 核心技术手册](NGINX.md)                  |
+| **Redis**           | [Redis 核心技术手册](REDIS.md)                  |
+| **RabbitMQ**        | [RabbitMQ 核心技术手册](RABBITMQ.md)            |
 
 > 💡 **如何快速找到想看的章节？** 在 GitBook 左侧目录树中直接点击，或使用搜索功能（支持全文检索）。
 

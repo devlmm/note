@@ -10,6 +10,9 @@
 * [SpringBoot](SPRING_BOOT.md)
 * [SpringRestClient](SPRING_RESTCLIENT.md)
 * [SpringWebClient](SPRING_WEBCLIENT.md)
+* [SpringSecurity](SPRING_SECURITY.md)
+* [Redis](REDIS.md)
+* [RabbitMQ](RABBITMQ.md)
 * [Lombok](LOMBOK.md)
 * [HTML5/JS/CSS](HTML_JS_CSS.md)
 * [Vue3](VUE.md)
@@ -17,6 +20,7 @@
 * [Git](GIT.md)
 * [Maven](MAVEN.md)
 * [Docker](DOCKER.md)
+* [Nginx](NGINX.md)
 * [LinuxCentOS](LINUX_CENTOS.md)
 
 
